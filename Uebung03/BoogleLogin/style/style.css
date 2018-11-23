@@ -1,0 +1,149 @@
+header {
+    height: 30px;
+    margin-top: 15px;
+}
+
+header img {
+    width: 10%;
+    height: 100%;
+    margin: 0 45%;
+}
+
+.htext {
+    text-align: center;
+    font-family: roboto,arial,sans-serif;
+    color: #8c8c8c;
+    font-weight: normal;
+}
+#main {
+    width: 100%;
+    height: 100%;
+
+}
+
+#login {
+    display: block;
+    border-radius: 8px;
+    background-color: #f2f2f2;
+    width: 350px;
+    height: 280px;
+    margin: 0 auto 20px;
+    box-shadow: 0 2px 2px 0 rgba(0,0,0,0.14), 0 3px 1px -2px rgba(0,0,0,0.12), 0 1px 5px 0 rgba(0,0,0,0.2);
+}
+
+
+#login img {
+    display: bock;
+    width: 90px;
+    height: 90px;
+    border-radius: 50%;
+    margin: 30px 130px 10px 130px;
+}
+
+#login input {
+    background-color: #ffffcc;
+    font-size: 1em;
+    color: #8c8c8c;
+    display: bock;
+    width: 80%;
+    height: 35px;
+    margin: 3px 10%;
+
+}
+
+#login button {
+    background-color: #4285f4;
+    display: block;
+    width: 80%;
+    height: 35px;
+    margin: 3px auto;
+    border: none;
+    border-radius: 3px;
+    font-weight: 500;
+    color: #fff;
+    font-size: 0.8em;
+
+}
+
+#login a {
+    color: #4285f4;
+    float: right;
+    margin-right: 35px;
+    margin-top: 5px;
+    font-size: 0.9em;
+    text-decoration: none;
+}
+
+#newaccount {
+    display: block;
+    width: 100px;
+    height 30px;
+    height: 20px;
+    color: #4285f4;
+    font-size: 0.9em;
+    text-decoration: none;
+    text-align: center;
+    margin: 0 auto 20px;
+}
+
+h5 {
+    margin-bottom: 10px;
+}
+
+#logolist {
+    width: 230px;
+    margin: 0 auto;
+    padding: 0 35%;
+}
+
+#logolist img {
+    width: 15px;
+    height: 15px;
+    margin: 0 5px;
+}
+
+#footer {
+    height: 30px;
+    position: absolute; bottom: 0px;
+    width: 100%;
+    border-top: 1px solid #e6e6e6;
+}
+
+#footerleft {
+    float: left;
+    margin: 5px 30px;
+
+}
+
+#footerleft a {
+    color: #8c8c8c;
+    margin: 0 5px;
+    text-decoration: none;
+    font-size: 0.7em;
+}
+
+#footerright {
+    float: right;
+    margin-top: 3px;
+
+}
+
+#footerright img {
+    vertical-align: sub;
+    width: 20px;
+    height: 20px;
+}
+
+.option {
+    margin-right: 20px;
+}
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,16 @@
+#red {
+  color: red;
+}
+
+.blue {
+  color: blue;
+}
+
+.image {
+    border: 6px black dotted;
+    padding: 5px;
+}
+
+.image:hover {
+    border: 6px red solid;
+}

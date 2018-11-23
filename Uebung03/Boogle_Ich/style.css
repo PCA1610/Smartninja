@@ -1,0 +1,35 @@
+
+.navigation {
+    border: 3px solid green;
+    height: 30px;
+}
+
+.navigation ul {
+    margin-top: 3px;
+    list-style-type: none;
+    border: 3px solid red;
+    float: right;
+    padding-top: -10px;
+}
+
+.navigation ul li {
+    border: 3px solid blue;
+    display: inline;
+    margin: 5px;
+    padding: auto;
+
+}
+
+.main {
+    float: right;
+    margin: 200px auto;
+    width: 50%;
+    border: 3px solid green;
+    padding: 10px;
+}
+
+.main input[type="text"] {
+    width: 100%;
+    height: 40px;
+}
+

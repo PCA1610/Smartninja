@@ -1,0 +1,29 @@
+body {
+    color: white;
+    background-color: blue;
+}
+
+.image {
+
+    border-radius: 50%;
+    border: 6px white dotted;
+    padding: 5px;
+}
+
+.image:hover {
+    border: 6px red solid;
+}
+
+#search {
+    border-radius: 10%;
+}
+
+button {
+
+    background-color: black;
+    color: white;
+}
+
+button:hover {
+    background-color: gray;
+}
