@@ -1,0 +1,14 @@
+user_inputs = {}
+
+while True:
+    user_input = raw_input("What's you task?: ")
+    user_inputs[user_input] = False
+    print user_inputs
+    new_Task = raw_input("Do you want to add a new Task? Y/N ")
+    if new_Task == "n":
+        print "That's your final list: "
+        print user_inputs
+        break
+    finished_Task = raw_input("Which task did you already finish?: ")
+    user_inputs[finished_Task] = True
+    print user_inputs
