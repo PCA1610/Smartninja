@@ -3,6 +3,6 @@
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$/../Programmieren/Dogs" vcs="" />
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/Uebung06/Templet/startbootstrap-agency" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Uebung06/Templet/startbootstrap-agency" vcs="svn" />
   </component>
 </project>
