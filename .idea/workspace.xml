@@ -48,10 +48,32 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
+<<<<<<< HEAD
         <entry file="file://$PROJECT_DIR$/Uebung14/HalloWorld/main.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="75">
               <caret line="5" column="41" lean-forward="true" selection-start-line="5" selection-start-column="41" selection-end-line="5" selection-end-column="41" />
+=======
+        <entry file="file://$PROJECT_DIR$/Uebung13/Homework/quotes.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="13" column="20" lean-forward="true" selection-start-line="13" selection-start-column="20" selection-end-line="13" selection-end-column="20" />
+              <folding>
+                <element signature="e#0#39#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Uebung13/main.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" column="31" lean-forward="true" selection-start-line="6" selection-start-column="4" selection-end-line="10" selection-end-column="34" />
+              <folding>
+                <element signature="e#0#27#0" expanded="true" />
+              </folding>
+>>>>>>> 82ad53b3801a2d55861ed2be617517263b17b815
             </state>
           </provider>
         </entry>
@@ -99,8 +121,12 @@
         <option value="$PROJECT_DIR$/Uebung07/numberGuess.py" />
         <option value="$PROJECT_DIR$/Uebung11/test.py" />
         <option value="$PROJECT_DIR$/Uebung11/contactBook.py" />
+<<<<<<< HEAD
         <option value="$PROJECT_DIR$/Uebung14/HalloWorld/app.yaml" />
         <option value="$PROJECT_DIR$/Uebung14/HalloWorld/main.py" />
+=======
+        <option value="$PROJECT_DIR$/Uebung13/Homework/quotes.py" />
+>>>>>>> 82ad53b3801a2d55861ed2be617517263b17b815
       </list>
     </option>
   </component>
@@ -124,6 +150,20 @@
               <item name="Smartninja" type="b2602c69:ProjectViewProjectNode" />
               <item name="Smartninja" type="462c0819:PsiDirectoryNode" />
             </path>
+<<<<<<< HEAD
+=======
+            <path>
+              <item name="Smartninja" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Smartninja" type="462c0819:PsiDirectoryNode" />
+              <item name="Uebung13" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Smartninja" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Smartninja" type="462c0819:PsiDirectoryNode" />
+              <item name="Uebung13" type="462c0819:PsiDirectoryNode" />
+              <item name="Homework" type="462c0819:PsiDirectoryNode" />
+            </path>
+>>>>>>> 82ad53b3801a2d55861ed2be617517263b17b815
           </expand>
           <select />
         </subPane>
@@ -134,6 +174,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="restartRequiresConfirmation" value="false" />
+<<<<<<< HEAD
     <property name="settings.editor.selected.configurable" value="preferences.externalTools" />
   </component>
   <component name="PyConsoleOptionsProvider">
@@ -143,9 +184,16 @@
         <option name="myModuleName" value="Smartninja" />
       </console-settings>
     </option>
+=======
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+>>>>>>> 82ad53b3801a2d55861ed2be617517263b17b815
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Phil\Documents\Programmieren\Smartninja\Uebung13\Homework" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Phil\Documents\Programmieren\Smartninja\Uebung13\Homework" />
       <recent name="$PROJECT_DIR$/Uebung05/TestLesson/style" />
     </key>
   </component>
@@ -161,7 +209,11 @@
       </list>
     </option>
   </component>
+<<<<<<< HEAD
   <component name="RunManager" selected="Python.main">
+=======
+  <component name="RunManager" selected="Python.quotes">
+>>>>>>> 82ad53b3801a2d55861ed2be617517263b17b815
     <configuration name="contactBook" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Smartninja" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -183,7 +235,11 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+<<<<<<< HEAD
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true">
+=======
+    <configuration name="numberGuess" type="PythonConfigurationType" factoryName="Python" temporary="true">
+>>>>>>> 82ad53b3801a2d55861ed2be617517263b17b815
       <module name="Smartninja" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -191,32 +247,19 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
+<<<<<<< HEAD
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Uebung14/HalloWorld" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Uebung14/HalloWorld/main.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="numberGuess" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Smartninja" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
+=======
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Uebung07" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Uebung07/numberGuess.py" />
+>>>>>>> 82ad53b3801a2d55861ed2be617517263b17b815
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -238,6 +281,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Uebung10/quiz_test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="quotes" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Smartninja" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Uebung13/Homework" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Uebung13/Homework/quotes.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -272,11 +336,19 @@
       <item itemvalue="Python.numberGuess" />
       <item itemvalue="Python.contactBook" />
       <item itemvalue="Python.test (1)" />
+<<<<<<< HEAD
       <item itemvalue="Python.main" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="Python.main" />
+=======
+      <item itemvalue="Python.quotes" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.quotes" />
+>>>>>>> 82ad53b3801a2d55861ed2be617517263b17b815
         <item itemvalue="Python.contactBook" />
         <item itemvalue="Python.test (1)" />
         <item itemvalue="Python.numberGuess" />
@@ -309,14 +381,25 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
+<<<<<<< HEAD
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23749007" />
+=======
+    <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23498419" />
+>>>>>>> 82ad53b3801a2d55861ed2be617517263b17b815
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
+<<<<<<< HEAD
       <window_info anchor="bottom" id="Run" order="2" weight="0.32739726" />
+=======
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32827735" />
+>>>>>>> 82ad53b3801a2d55861ed2be617517263b17b815
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -472,17 +555,45 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Uebung11/contactBook.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="688">
-          <caret line="114" column="20" selection-start-line="114" selection-start-column="20" selection-end-line="114" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Uebung11/test.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="44" selection-start-line="2" selection-end-line="2" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Uebung11/contactBook.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="80" column="59" selection-start-line="80" selection-start-column="59" selection-end-line="80" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Uebung13/Homework/BeautifulSoup.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Uebung13/BeautifulSoup.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2958" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Uebung13/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="31" lean-forward="true" selection-start-line="6" selection-start-column="4" selection-end-line="10" selection-end-column="34" />
+          <folding>
+            <element signature="e#0#27#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Uebung13/Homework/quotes.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="20" lean-forward="true" selection-start-line="13" selection-start-column="20" selection-end-line="13" selection-end-column="20" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
