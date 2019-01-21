@@ -42,13 +42,13 @@ def division():
 # add button
 add_button = Tkinter.Button(window, text="+", command=addition)  # check_guess, not check_guess()
 add_button.pack()
-# add button
+# subtraction button
 subtraction_button = Tkinter.Button(window, text="-", command=subtraction)  # check_guess, not check_guess()
 subtraction_button.pack()
-# add button
+# multiplication button
 multiplication_button = Tkinter.Button(window, text="*", command=multiplication)  # check_guess, not check_guess()
 multiplication_button.pack()
-# add button
+# division button
 division_button = Tkinter.Button(window, text="/", command=division)  # check_guess, not check_guess()
 division_button.pack()
 
