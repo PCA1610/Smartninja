@@ -1,0 +1,14 @@
+{% extends "base.html" %}
+
+{% block title %}Test Page{% endblock title %}
+
+{% block page_content %}
+    <h1>Homepage</h1>
+
+    <p>What is the Capital of {{random_city}}?</p>
+    <form method="post">
+        <input name="city">
+        <button>Button</button>
+    </form>
+    {{result}}
+{% endblock page_content %}
